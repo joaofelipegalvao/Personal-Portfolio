@@ -1,4 +1,4 @@
-# Personal Portfolio Design #09
+# Personal Portfolio Design
 
 Este projeto é um portfólio pessoal desenvolvido seguindo o tutorial do AsmrProg.
 
@@ -17,13 +17,11 @@ O objetivo deste projeto é criar um site de portfólio moderno e responsivo uti
 
 Seja você um iniciante ou um desenvolvedor experiente, este projeto contém tudo o que você precisa para criar um portfólio impressionante e profissional. O tutorial cobre cada seção detalhadamente, garantindo que você aprenda as melhores práticas em desenvolvimento web.
 
-## Como Executar o Projeto
+## 🌐 Acesse o projeto:
 
-1. Clone este repositório:
    ```sh
    git clone <seu-repositório>
    ```
-2. Abra o arquivo `index.html` no navegador.
 
 ## Captura de Tela
 
