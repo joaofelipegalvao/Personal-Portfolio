@@ -20,7 +20,7 @@ Seja você um iniciante ou um desenvolvedor experiente, este projeto contém tud
 ## 🌐 Acesse o projeto:
 
    ```sh
-   git clone <seu-repositório>
+   https://personal-portfolio-xi-blush.vercel.app/
    ```
 
 ## Captura de Tela
